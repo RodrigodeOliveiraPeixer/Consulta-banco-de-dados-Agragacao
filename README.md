@@ -3,7 +3,7 @@ Neste exemplo está sendo realizando consulta ao banco de dados utilizando agreg
 
 Para executar a consulta você precisará acessar o Site https://www.w3schools.com e na página SQL clique em Try it yourself assim poderá acessar ao banco de dados do site para testes.
 
-
+O nosso resultado final irá agrupar por País(country), onde a agregação irá colapsar as linhas por País(country) e irá realizar a contagem de quantas ruas tem por País se algum País não tiver rua com nome não irá contabilizar.
 
 
 <br>
